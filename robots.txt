@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mega888koi88.github.io/koi88/tips-game.html/sitemap.xml
